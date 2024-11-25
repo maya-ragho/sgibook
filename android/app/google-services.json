@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733558653831",
+    "project_id": "sgibook",
+    "storage_bucket": "sgibook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733558653831:android:5d64b401afef946cc90922",
+        "android_client_info": {
+          "package_name": "com.example.sgibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCNp7CuBCKj8CbDiMw6f6MqZxxi__OMAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
